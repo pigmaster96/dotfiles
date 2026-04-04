@@ -1,0 +1,2 @@
+[bell]
+command={program="play",args=["~/.config/bell.mp3"]}
